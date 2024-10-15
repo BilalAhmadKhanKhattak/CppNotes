@@ -1,0 +1,7 @@
+ Loops
+Description: This topic covers loops, which allow you to execute a block of code repeatedly based on a condition. You can use for, while, or do-while loops in C++.
+
+Key Concepts:
+
+for: Loop runs for a specified number of iterations.
+while: Loop runs while a condition is true.
