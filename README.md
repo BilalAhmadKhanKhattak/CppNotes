@@ -2,6 +2,10 @@
 CppNotes is a comprehensive collection of resources and projects aimed at learning C++. This repository serves as a structured guide for both beginners and intermediate programmers, covering fundamental concepts of C++ programming through practical examples and code snippets. You Can use it as a side-kick or quick start.
 Seriously, I was just thinking to REFRESH my C++ programming language, who knew I'd refresh it from almost SCRATCH, and then I thought to upload this, this will help others too!
 
+# See this file, its the important one:
+[Documentation](https://github.com/BilalAhmadKhanKhattak/CppNotes/blob/main/Learning%20Documentation/New%20Text%20Document.txt)
+
+
 # Key Features:
 - User Input: Examples demonstrating how to take and handle user input in C++.
 - Arithmetic Operations: Basic arithmetic operations with detailed explanations.
