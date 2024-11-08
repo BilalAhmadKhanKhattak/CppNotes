@@ -1,0 +1,4 @@
+Name  Salary  Department
+Hashim  12000 sales
+Amara  1500  HR
+Athar  1300  IT
