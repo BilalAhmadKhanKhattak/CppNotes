@@ -26,7 +26,10 @@ This repository not only serves as a personal reference for the author but also 
 I Programmed all the codes, but for understanding especially .txt files, I copied stuff to make it easier. Precisely, I myself need sometime, some prog lang refresh! -BILRED
 
 # CONTRIBUTORS
-- [Huzaifa Ashfaq](https://github.com/InYourMAchine) - Made significant contributions to sorting and enhancing information in our repository. 🙌
+![InYourMachine HUZ](https://avatars.githuusercontent.com/InYourMachine)
+- [InYourMachine HUZ](https://github.com/InYourMAchine) - Made significant contributions to sorting and enhancing information in our repository. 🙌
+- 
+![Mr. BILRED](https://avatars.githubusercontent.com/BilalAhmadKhanKhattak)
 - [Bilal Ahmad Khan AKA Mr. BILRED](https://github.com/BilalAhmadKhanKhattak) - Owner Of this repository, but the other contributor brought this repository to a whole new level
 
 
