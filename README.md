@@ -23,5 +23,10 @@ This repository not only serves as a personal reference for the author but also 
 - Each folder contains example code files and a README with explanations.
 - Users can compile and run the examples using a C++ compiler (e.g., g++) to see the concepts in action.
 
-I Programmed all the codes, but for understanding especially .txt files, I copied stuff to make it easier. Precisely, I myself need sometime, some prog lang refresh!
+I Programmed all the codes, but for understanding especially .txt files, I copied stuff to make it easier. Precisely, I myself need sometime, some prog lang refresh! -BILRED
+
+# CONTRIBUTORS
+- [Huzaifa Ashfaq](https://github.com/InYourMAchine) - Made significant contributions to sorting and enhancing information in our repository. 🙌
+- [Bilal Ahmad Khan AKA Mr. BILRED](https://github.com/BilalAhmadKhanKhattak) - Owner Of this repository, but the other contributor brought this repository to a whole new level
+
 
