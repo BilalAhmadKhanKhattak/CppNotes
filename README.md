@@ -24,7 +24,7 @@ This repository not only serves as a personal reference for the author but also 
 - Navigate through the folders to find specific topics.
 - Each folder contains example code files and a README with explanations.
 - Users can compile and run the examples using a C++ compiler (e.g., g++) to see the concepts in action.
-- To View The InYourMachine(HUZ) Contribution, Open The CppFeatured Folder
+- To View The InYourMachine(HUZ) Contribution, Open The "Cpp-Featured" Folder
 
 **Note**: Some `.txt` files are reference materials collected to make understanding easier – even the best programmers need a refresh sometimes! 😄 – **BILRED**
 **Note**: No Files Were Created My Ai - **InYourMachine** 
