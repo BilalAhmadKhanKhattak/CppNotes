@@ -4,6 +4,7 @@ Seriously, I was just thinking to REFRESH my C++ programming language, who knew 
 "I started this project to refresh my C++ knowledge from scratch, and it grew into something that could help others, too!" – **Bilal Ahmad Khan (Mr. BILRED)**
 
 ## Key Documentation:
+Check out the main document:
 [Documentation](https://github.com/BilalAhmadKhanKhattak/CppNotes/blob/main/Learning%20Documentation/New%20Text%20Document.txt)
 
 
@@ -16,13 +17,14 @@ Seriously, I was just thinking to REFRESH my C++ programming language, who knew 
 - Classes: Basics of object-oriented programming with class examples.
 - Pointers: Understanding pointers and memory management.
 
-# Purpose:
+## Purpose:
 This repository not only serves as a personal reference for the author but also aims to provide a learning platform for anyone interested in mastering C++. It encourages users to experiment with the code, modify it, and explore more about C++ programming concepts.
 
-# How to Use:
+## How to Use:
 - Navigate through the folders to find specific topics.
 - Each folder contains example code files and a README with explanations.
 - Users can compile and run the examples using a C++ compiler (e.g., g++) to see the concepts in action.
+- To View The InYourMachine(HUZ) Contribution, Open The CppFeatured Folder
 
 **Note**: Some `.txt` files are reference materials collected to make understanding easier – even the best programmers need a refresh sometimes! 😄 – **BILRED**
 **Note**: No Files Were Created My Ai - **InYourMachine** 
