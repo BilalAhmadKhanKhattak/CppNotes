@@ -27,6 +27,7 @@ This repository not only serves as a personal reference for the author but also 
 - To View The InYourMachine(HUZ) Contribution, Open The "Cpp-Featured" Folder
 
 **Note**: Some `.txt` files are reference materials collected to make understanding easier – even the best programmers need a refresh sometimes! 😄 – **BILRED**
+
 **Note**: No Files Were Created My Ai - **InYourMachine** 
 (This Contributor Just Impressed me)
 
