@@ -1,0 +1,27 @@
+Binary search is a super-efficient algorithm used to find the position of a 
+target element in a sorted array. Unlike linear search, which examines 
+every element one by one, binary search divides the search range in half with each step.
+
+
+Steps of Binary Search:
+- Start with the Middle Element:
+Compare the target (key) with the middle element of the array.
+If the middle element matches the target, you've found it!
+
+- Adjust the Search Range:
+If the target is smaller than the middle element, eliminate the right half of the array (because all elements to the right are greater in a sorted array).
+If the target is larger, eliminate the left half.
+
+- Repeat:
+Continue this process of halving the search range until you either find the 
+target or the range becomes empty (which means the target isn't in the array).
+
+Time Complexity:
+Binary search has a time complexity of O(log n), which is much faster than linear search's O(n) for larger datasets. 
+This speed is because it reduces the search space exponentially with each step.
+
+Example:
+Say we want to find the number 30 in a sorted array: [10, 20, 30, 40, 50] :
+Start with the middle element: 30 is compared with 30 (middle of the array). It's a match, so we found it in just 1 step!
+
+If the array was bigger or the target was not in the middle, binary search would repeat the halving process.
